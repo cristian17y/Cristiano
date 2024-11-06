@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-color:purple;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 10px 0 ;
+    font-size: 30px; }
+    .parte-texto{
+    display: flex;}
+    .texto {font-size: 30px;
+    color:#dfcca3(53, 26, 207);
+    padding: 10px 10px;
+    text-align:left;
+    background-color:rgb(255, 255, 255);}
+    .lista-itens{
+    text-align: center;
+    padding: 25px 0;}
+    .cripto{width: 90%
+    ;height: 70%;}
+    .todos-itens{display:grid;
+    grid-template-columns: 20%  20%  20%  20%;}
+    .imagem{
+        width: 90%;
+        height: 90%;
+    }
+    
+
+
+
